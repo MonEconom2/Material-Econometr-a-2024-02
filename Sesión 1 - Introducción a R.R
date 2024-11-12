@@ -1,6 +1,6 @@
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 #                           UNIVERSIDAD NACIONAL DE COLOMBIA
-#                   Facultad de Ciencias Económicas | 2023 - 02
+#                   Facultad de Ciencias Económicas | 2024 - 02
 #                            Econometría II | Monitoría 
 #
 #                                     Sesión 1:
